@@ -12,5 +12,5 @@ if __name__ == "__main__":
     name = "Bhimanagouda"
     year = 2006
 
-    print(book_details(1001,"Atomic habit","Bob",2016))
+    print(book_details(101,"Ramayana","Bob",2006))
     
