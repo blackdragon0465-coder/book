@@ -7,10 +7,10 @@ def book_details(id,tittle,name,year):
     )
     return result
 if __name__ == "__main__":
-    id = 1001
-    tittle = "Atomic Habit"
-    name = "Bob"
-    year = 2016
+    id = 101
+    tittle = "Ramayana"
+    name = "Bhimanagouda"
+    year = 2006
 
     print(book_details(1001,"Atomic habit","Bob",2016))
     
