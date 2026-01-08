@@ -6,4 +6,4 @@ def test_book_details():
         " Author Name: Bhimanagouda\n"
         " Publication Year: 2006\n"
     )
-    assert book_details(1001, "Atomic habit", "Bob", 2016) == expected_output
+    assert book_details(101, "Ramayana", "Bhimanagouda", 2006) == expected_output
